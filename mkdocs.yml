@@ -1,0 +1,14 @@
+site_name: Humanoid Robot Design
+nav:
+    - Home: 
+        - index.md
+        - 'Humanoid Design Research':
+          - Design/hand.md
+          - Design/arms.md
+          - Design/legs.md
+          - Design/fullBody.md
+        - 'Actuators':
+          - Motors/survey.md 
+          - Motors/protocols.md 
+
+theme: readthedocs
