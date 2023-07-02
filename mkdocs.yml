@@ -2,6 +2,11 @@ site_name: Humanoid Robot Design
 nav:
     - Home: 
         - index.md
+        - 'Control':
+          - Control/BLDCControlBoards.md
+          - Control/handControlElectronics.md
+          - Control/reinforcementLearning.md
+          - Control/kinematics.md
         - 'Humanoid Design Research':
           - Design/hand.md
           - Design/arms.md
@@ -10,5 +15,7 @@ nav:
         - 'Actuators':
           - Motors/survey.md 
           - Motors/protocols.md 
+          - Motors/encoders.md
+          - Motors/gearboxes.md
 
 theme: readthedocs

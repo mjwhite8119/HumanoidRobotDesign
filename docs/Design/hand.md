@@ -1,5 +1,7 @@
 # Hand Designs
 
+Robotic hand from [Cults3d](https://cults3d.com/en/3d-model/gadget/lad-robotic-hand-improved-version).  The design is $44.
+
 ## References
 
 - [3D Printed Biomimetic Mechatronic Hand](https://www.youtube.com/watch?v=l6xqTcLXXC8&list=TLPQMjMwMzIwMjMkAWNxVcmn-A&index=4&ab_channel=WillCogley) Will Cogley
@@ -21,3 +23,5 @@
 - [Interlink Force Sensors](https://buyinterlinkelectronics.com/collections/x-ux-force-sensors)
 
 - [Hand Design](https://www.youtube.com/watch?v=zNDGIdBsGtA&ab_channel=Engineergram) Video
+
+- [LAD Robotics](https://cults3d.com/en/design-collections/LAD_Robotics/robotics)
